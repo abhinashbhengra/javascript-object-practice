@@ -1,3 +1,2 @@
-# vanilla-js-playground-cas4cs
+# vanilla-js-Practice on objects
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vanilla-js-playground-cas4cs)
